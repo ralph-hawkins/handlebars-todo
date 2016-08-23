@@ -1,0 +1,2 @@
+<?php
+inlcude 'index.html';
